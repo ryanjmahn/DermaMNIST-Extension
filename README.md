@@ -6,7 +6,7 @@ Cartographic Generalization Exposes Non-Uniform Structure Loss in Downsampled De
 
 Shrinking skin-cancer photos to 28×28 pixels erases most of what dermatologists diagnose by, and it erases more for some skin tones than others.
 
-Experiment is complete · Co-Authored Paper Accepted @ NeurIPS 2026 Workshop: AI Data Readiness for Scientific Discovery (AIDaR)
+Experiment is complete · Co-Authored Paper Accepted @ NeurIPS 2026 Workshop: AI Data Readiness for Scientific Discovery (AIDaR) · [Read the paper](docs/paper.pdf)
 
 </div>
 
